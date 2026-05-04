@@ -20,8 +20,8 @@ python-bootcamp/
 
 | # | Module | Status |
 |---|--------|--------|
-| 01 | Fundamentals | 🔄 In Progress |
-| 02 | Control Flow & Loops | ⬜ Upcoming |
+| 01 | Fundamentals | ✅ Done |
+| 02 | Control Flow & Loops | 🔄 In Progress |
 | 03 | Strings | ⬜ Upcoming |
 | 04 | Functions & Modules | ⬜ Upcoming |
 | 05 | Data Structures | ⬜ Upcoming |
